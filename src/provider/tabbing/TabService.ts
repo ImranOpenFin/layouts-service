@@ -20,7 +20,7 @@ export interface TabTarget extends TargetBase {
     type: eTargetType.TAB;
 
     /**
-     * Represents the target window tabbing space;
+     * Represents the target window tabbing space; ghfghf
      */
     dropArea: Rectangle;
 
